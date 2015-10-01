@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wakwak.listfragmentdelayloadingsample.HeadFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="jfdksla;jfkdl;sajfkld;sajfkl;dsajfkl;dsjafkl;dsjafkl;dsjafkldsa;jfdksjafd;lksafd;ksajf;ldsakjf;dslkajfds;akfjd;slafkdsaj;fsdlkafjdsl;afjkdsl;afjkdsa;jfdkslajfkld;sajkfl;dsajfkld;sjafkldsja;fjkdsl;afjkdl;sajfkl;dsjakfld;sajfkdlsaj;fkdlsajfkl;sdjfkldsajfkldsajflkdsajf;laskjfdksaljfd;klajfas;kdljfkdsaj;f;akldfj;dsklajfdk;lsajfd;sajfkld;sajfkl;dsafsad" />
+
+</FrameLayout>
